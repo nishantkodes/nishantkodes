@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishantkodes
+- 👋 Hi, I’m Nishant kumar
 - 👀 I’m interested in Cloud Native tech and Large scale distributed systems.
 - 🌱 I’m currently learning Kubernetes and TDD for IaC
 - 💞️ I’m looking to collaborate on some outstanding ideas around kubernetes and distributed systems.
